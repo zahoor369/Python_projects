@@ -568,7 +568,7 @@ class ZahoorApp:
         
     def apply_theme(self):
         bg_color = "#2e2e2e" if DARK_MODE else "#f0f0f0"
-        fg_color = "#ffffff" if DARK_MODE else "#000000"
+        fg_color = "#ffffff" if DARK_MODE else "#000000" x
         widget_bg = bg_color
         widget_fg = fg_color
         
